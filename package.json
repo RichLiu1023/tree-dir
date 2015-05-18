@@ -1,6 +1,6 @@
 {
   "name": "tree-dir",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "tree your dir recurisice",
   "main": "index.js",
   "scripts": {
