@@ -1,0 +1,34 @@
+{
+  "name": "tree-dir",
+  "version": "1.0.0",
+  "description": "tree your dir recurisice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tree-dir": "./bin/tree"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hongqi/tree-dir.git"
+  },
+  "keywords": [
+    "dir",
+    "tree"
+  ],
+  "author": {
+    "name": "hongqi",
+    "email": "fnQuit@gmail.com"
+  },
+  "preferGlobal": true,
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hongqi/tree-dir/issues"
+  },
+  "homepage": "https://github.com/hongqi/tree-dir",
+  "dependencies": {
+    "minimist": "^1.1.1",
+    "path": "^0.11.14"
+  }
+}
